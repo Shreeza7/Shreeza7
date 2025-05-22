@@ -21,7 +21,7 @@
 
 ## 💡 Featured Projects
 
-### 🏨 [Enstay](https://github.com/Shreeza7) *(Private repo link placeholder — update if public)*  
+### 🏨 [Enstay](https://github.com/Shreeza7/cmps383-2024-EnStay) 
 An online hotel reservation platform with both web and mobile apps. Users can browse listings, make bookings, and view recommendations, while admins can manage property data.  
 
 **Tech Stack:** ASP.NET Core, React (Vite), React Native (Expo), Entity Framework Core, Azure Deployment  
@@ -33,7 +33,7 @@ An online hotel reservation platform with both web and mobile apps. Users can br
 A full-stack theatre booking system where users can browse movies, book seats, and pay securely, while admins manage showtimes and theatres.  
 **Tech Stack:** React + TypeScript, .NET 7 (ASP.NET Core), EF Core, SQL Server
 
-### 💬 [Message Board App](https://github.com/Shreeza7/message-board-app)  
+### 💬 [Message Board App](https://github.com/Shreeza7/message-exchange-system)  
 A discussion platform supporting topic creation, comments, and topic-based filtering using MVC and key software design patterns.  
 **Tech Stack:** Node.js, MongoDB, Express, EJS
 
