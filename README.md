@@ -42,8 +42,7 @@ A discussion platform supporting topic creation, comments, and topic-based filte
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreeza-joshi-97gs/)
-- 📨 Email: shreezazoc123@gmail.com
+- 📨 Email: shreeza2101@gmail.com
 
 ---
 
